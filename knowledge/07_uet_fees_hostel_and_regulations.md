@@ -13,36 +13,38 @@ ingest: true
 
 UET's official Fall 2026 fee breakup has two categories: subsidized and partially subsidized. The same university fee schedule applies across undergraduate engineering programs, so Computer Engineering students should confirm their own category in the admission offer or on the student portal.
 
-> Source note: Whether a student is subsidized or partially subsidized changes the total program cost by roughly Rs. 350,000, so the category should be confirmed on the offer letter.
+> Source note: Whether a student is subsidized or partially subsidized changes the total program cost by roughly Rs. 370,000 (Rs. 713,920 vs Rs. 1,085,430 over 8 semesters), so the category should be confirmed on the offer letter.
 
 Keywords: fee category, subsidized, partially subsidized, which category, fee difference, category confirm, kitna, subsidized ka matlab
 
 ### UET Fall 2026 - Semester Fee Breakup (Subsidized vs Partially Subsidized)
 
-Per-semester fee items for the Fall 2026 undergraduate schedule:
+Per-semester fee items for the Fall 2026 undergraduate schedule. These figures follow the authoritative UET Undergraduate Fee Schedule for Session Fall 2026 (announced 26 Jul 2026); an earlier "Fee Breakup for Entry Session Fall-2026" PDF with lower figures is treated as superseded.
 
 | Item | Subsidized | Partially subsidized |
 | --- | --- | --- |
-| Admission / re-admission fee, first semester | Rs. 54,765 | Rs. 74,756 |
-| Tuition fee, semesters 2 to 8 | Rs. 53,106 per semester | Rs. 80,421 per semester |
-| Day-scholar facilities charge | Rs. 6,720 per semester | Rs. 6,720 per semester |
+| Admission / re-admission fee, first semester (one-time, non-refundable) | Rs. 54,050 | Rs. 74,040 |
+| Tuition fee, payable every semester | Rs. 56,290 per semester | Rs. 85,250 per semester |
 | Examination fee | Rs. 1,474 per semester | Rs. 1,572 per semester |
-| Miscellaneous charges | Rs. 6,767 per semester | Rs. 17,828 per semester |
-| Degree and final DMC fee, 8th semester | Rs. 7,000 | Rs. 7,000 |
+| Facilities charge (day scholar / hostel resident) | Rs. 7,220 / Rs. 3,610 per semester | Rs. 7,220 / Rs. 3,610 per semester |
+| Summer-semester registration fee (per credit hour) | Rs. 2,650 | Rs. 9,850 |
+| Degree, final DMC and verification fee, 8th semester | Rs. 10,000 | Rs. 10,000 |
 
-Keywords: semester fee, tuition fee, how much fee, fee structure, admission fee, re-admission fee, examination fee, misc charges, day scholar, DMC fee, fee breakdown, per semester fee, kitni fee, fee amount
+Keywords: semester fee, tuition fee, how much fee, fee structure, admission fee, re-admission fee, examination fee, facilities charge, day scholar, DMC fee, fee breakdown, per semester fee, kitni fee, fee amount
 
-### UET Fall 2026 - Total Program Fee (8 and 10 Semester)
+### UET Fall 2026 - Total Program Fee (8 Semester)
 
-For the standard 8-semester program the official semester totals are Rs. 674,114 (subsidized) and Rs. 1,024,040 (partially subsidized). For the 10-semester variant the totals are Rs. 871,162 and Rs. 1,326,222 respectively. First-semester totals are Rs. 107,871 (subsidized) and Rs. 155,177 (partially subsidized); later semesters vary mainly because of the final-semester degree/DMC charge.
+For the standard 8-semester four-year B.Sc. program the official semester-wise totals are Rs. 713,920 (subsidized) and Rs. 1,085,430 (partially subsidized), excluding hostel. First-semester totals are Rs. 110,340 (subsidized: Rs. 54,050 admission + Rs. 56,290 tuition) and Rs. 159,290 (partially subsidized: Rs. 74,040 + Rs. 85,250). Later semesters rise mainly because tuition increases across the entry-session schedule and the 8th semester adds the Rs. 10,000 degree/DMC charge.
 
-Keywords: total fee, whole program fee, complete fee, 8 semester total, 10 semester total, first semester total, total cost, total of degree, kitna total
+> Source note: These totals supersede the earlier fee-breakup figures (Rs. 674,114 / Rs. 1,024,040 over 8 semesters, first semester Rs. 107,871 / Rs. 155,177), which are not part of the 26 Jul 2026 authoritative schedule.
+
+Keywords: total fee, whole program fee, complete fee, 8 semester total, first semester total, total cost, total of degree, kitna total
 
 ### UET Fall and Spring - Hostel Charges
 
-For Fall and Spring semesters, subsidized hostel accommodation is Rs. 11,644 for a dormitory or Rs. 15,846 for a cubical per semester. Non-subsidized rates are Rs. 14,512 (dormitory) and Rs. 21,582 (cubical) per semester.
+Per-semester hostel charges from the Fall 2026 fee schedule (cubicle / dormitory). Subsidized: room rent Rs. 7,000 / Rs. 5,500 plus utilities Rs. 10,750 / Rs. 7,540, totalling Rs. 17,750 (cubicle) or Rs. 13,040 (dormitory). Partially subsidized: room rent Rs. 15,000 / Rs. 7,500 plus utilities Rs. 9,170 / Rs. 8,760, totalling Rs. 24,170 (cubicle) or Rs. 16,260 (dormitory). A one-time, non-refundable hostel admission fee of Rs. 2,810 applies on allotment. Summer hostel charges are consolidated at the same per-semester totals.
 
-Keywords: hostel fee, hostel charges, dormitory, cubical, residence, accommodation, mess, hostel kitna, hostel per semester
+Keywords: hostel fee, hostel charges, dormitory, cubicle, residence, accommodation, room rent, utility charges, hostel admission fee, hostel kitna, hostel per semester
 
 ### UET - Semester System, Credit Hour Limits and Academic Year
 
