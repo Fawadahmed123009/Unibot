@@ -92,6 +92,17 @@ First-semester total: Rs. 110,340 (subsidized) and Rs. 159,290 (partially subsid
 
 Keywords: semester fee, per semester fee, fee schedule, total program fee, 8 semester total, first semester fee, fourth semester fee, fee increase by semester, kitni fee har semester
 
+### UET Fall 2026 - A1 vs A2 Fee Amounts (Regular Open Merit)
+
+A1 is the subsidized open-merit category and A2 is the partially subsidized open-merit category; both are Punjab-domiciled regular merit seats. Their official fee amounts are:
+
+- A1 (subsidized): admission fee Rs. 54,050 (one-time, first semester) plus tuition Rs. 56,290 per semester. First-semester total Rs. 110,340. Full 8-semester total Rs. 713,920.
+- A2 (partially subsidized): admission fee Rs. 74,040 (one-time, first semester) plus tuition Rs. 85,250 per semester. First-semester total Rs. 159,290. Full 8-semester total Rs. 1,085,430.
+
+A2 is higher than A1 by about Rs. 371,510 over the full program (roughly 52% more). These are admission/tuition amounts and exclude hostel. Figures are from the UET Undergraduate Fee Schedule for Session Fall 2026 (announced 26 Jul 2026).
+
+Keywords: A1 fee, A2 fee, A1 vs A2, A1 and A2 difference, regular fee, regular merit fee, subsidized fee amount, partially subsidized fee amount, first semester fee, total fee, 110340, 159290, 713920, 1085430, A1 kitna, A2 kitna, A1 ka A2 sy difference
+
 ### UET Fall 2026 - Hostel Charges per Semester
 
 Hostel charges (Rs, per Fall/Spring semester):

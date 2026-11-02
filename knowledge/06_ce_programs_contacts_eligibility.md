@@ -15,24 +15,29 @@ Computer Engineering is offered by UET Lahore's Department of Computer Engineeri
 
 - B.Sc. Computer Engineering
 - B.Sc. Cyber Security
+- B.Sc. Information Systems and Technology
 - M.Sc. Computer Engineering
 - Ph.D. Computer Engineering
 
-Keywords: programs offered, degrees, B.Sc, BS, M.Sc, PhD, cyber security, computer engineering programs, what programs, list of programs, kon se programs, kitni degrees
+Keywords: programs offered, degrees, B.Sc, BS, M.Sc, PhD, cyber security, information systems, computer engineering programs, what programs, list of programs, kon se programs, kitni degrees
 
 ### Department of Computer Engineering - Chairperson and Leadership - Fall 2026
 
-The Department of Computer Engineering is chaired by Prof. Dr. Ali Hammad Akbar, who is the Chairperson (Chairman) of the department.
+Official sources disagree on who chairs the Department of Computer Engineering for Fall 2026, so confirm with the department office:
 
-Keywords: head of department, HOD, chairperson, chairman, who leads, department head, Ali Hammad Akbar, head kaun, who is the head
+- The Fall 2026 Undergraduate and Postgraduate prospectuses list Prof. Dr. Kashif Javed as Chairman (treated as the current official position).
+- This department-provided Fall 2026 compilation and the Spring 2026 Postgraduate prospectus list Prof. Dr. Ali Hammad Akbar as Chairperson.
+- The UET Contacts directory lists Dr. Irfan Ullah Chaudhary (this listing appears outdated).
+
+Keywords: head of department, HOD, chairperson, chairman, who leads, department head, Ali Hammad Akbar, Kashif Javed, Irfan Ullah Chaudhary, head kaun, who is the head, chairman name
 
 ### UET Lahore - Admissions Office Contact and Timings
 
 UET admissions contact details:
 
 - Address: G.T. Road, Lahore
-- Phone: +92-42-99029216
-- Email: admissions@uet.edu.pk
+- Phone: +92-42-99029216; 042-99029452
+- Email: admission@uet.edu.pk
 - Office hours: Monday to Friday, 8:00 AM to 4:00 PM
 
 Keywords: contact, phone, email, address, office timing, admissions office, how to contact, contact details, GT Road, rabta, timings

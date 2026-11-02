@@ -33,7 +33,7 @@ This section records what the department sheet says about the A1/A2 fee differen
 - Applicable batch: CE-29 / Session 2024
 - Status: Needs exact schedule
 
-> Source note: The sheet does not say which of A1 and A2 is higher, or whether the approximately 40% applies to tuition only or to the whole semester fee.
+> Source note: The sheet does not say which of A1 and A2 is higher, or whether the approximately 40% applies to tuition only or to the whole semester fee. This is a Session 2024 batch note and is not current. For Fall 2026 the verified figures are A1 (subsidized) 8-semester total Rs. 713,920 and A2 (partially subsidized) Rs. 1,085,430, i.e. A2 is about 52% higher than A1 (see the Fall 2026 fee schedule / institutional research report).
 
 Keywords: A1 A2 fee difference, fee structure, fee gap, subsidized and partially subsidized fee, semester fee, how much fee, fee components
 
