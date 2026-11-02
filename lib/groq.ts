@@ -9,7 +9,14 @@ export type GroqMessage = {
 };
 
 const GROQ_ENDPOINT = "https://api.groq.com/openai/v1/chat/completions";
-const MAX_TOKENS = 700;
+// GROQ_MODEL is a reasoning model: it spends completion tokens on hidden
+// reasoning before any visible content, and that budget counts against
+// max_tokens. With the full RAG prompt (system + 5 context chunks) reasoning
+// alone was observed at ~350-630 tokens, so a small cap starves the visible
+// answer - sometimes to zero content (surfaced as "Something went wrong") and
+// sometimes as a mid-sentence truncation. 2000 leaves room to finish reasoning
+// and emit a complete answer.
+const MAX_TOKENS = 2000;
 const TEMPERATURE = 0.1;
 
 /**
